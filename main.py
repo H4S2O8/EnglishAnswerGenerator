@@ -1,4 +1,5 @@
 import requests
+from os.path import abspath, dirname
 
 '''
 请求中的body(json)标准格式：
@@ -43,7 +44,7 @@ class AnswerGenerator:
         documents = []
         with open(self.source_path, encoding='utf-8') as f:
             input = f.read()
-            paras = [input[i:i + 5000] for i in range(0, min(len(input), 5), 5000)]
+            paras = [input[i:i + 5000] for i in range(0, min(len(input)//5000 + 1, 5), 5000)]
             for i in range(len(paras)):
                 documents.append({"text": paras[i], "id": str(i + 1)})
 
@@ -57,7 +58,7 @@ class AnswerGenerator:
         resp = self.session.post(url=self.url, headers=headers, json=data)
         ans0 = resp.json()['answers'][0]
         AnswerGenerator.cnt += 1
-        with open(f'answerWeek{week}.md', 'a', encoding='utf-8') as f:
+        with open(f'{abspath(dirname(__file__))}/answerWeek{week}.md', 'a', encoding='utf-8') as f:
             f.write(f'## Question{AnswerGenerator.cnt}: \n' + self.question + '\n\n')
             f.write(f'**Answer{AnswerGenerator.cnt}:** \n' + ans0['answer'].replace('\n', ' ') + '\n\n')
             f.write(f"Answer start at {ans0['answerStartIndex']} and end at {ans0['answerEndIndex']}\n\n\n")
@@ -70,12 +71,12 @@ class AnswerGenerator:
 if __name__ == "__main__":
     week = 1
 
-    with open(f'answerWeek{week}.md', 'w', encoding='utf-8') as f:
+    with open(f'{abspath(dirname(__file__))}/answerWeek{week}.md', 'w', encoding='utf-8') as f:
         f.write(f'# Week{week}\n')
 
     if week == 1:
         # 1
-        path = "par7-9.text"
+        path = abspath(dirname(__file__)) + "/par7-9.text"
         question = "What are levels of words?"
         ag = AnswerGenerator(path, question)
         ag.main()
@@ -85,7 +86,7 @@ if __name__ == "__main__":
         ag.main()
 
         # 2
-        path = "par37-43.text"
+        path = abspath(dirname(__file__)) +  "/par37-43.text"
         ag.set_source_path(path)
         ag.set_question("What are types of sentences?")
         ag.main()
@@ -97,7 +98,7 @@ if __name__ == "__main__":
         ag.main()
 
         # 3
-        path = "par64-68.text"
+        path = abspath(dirname(__file__)) + "/par64-68.text"
         ag.set_source_path(path)
         ag.set_question("What are the criteria of an effective paragraph?")
         ag.main()
@@ -106,7 +107,7 @@ if __name__ == "__main__":
         ag.main()
 
         # 4
-        path = "par71-72.text"
+        path = abspath(dirname(__file__)) +  "/par71-72.text"
         ag.set_source_path(path)
         ag.set_question("What are the steps in writing a paragraph?")
         ag.main()
