@@ -44,7 +44,7 @@ class AnswerGenerator:
         documents = []
         with open(self.source_path, encoding='utf-8') as f:
             input = f.read()
-            paras = [input[i:i + 5000] for i in range(0, min(len(input)//5000 + 1, 5), 5000)]
+            paras = [input[i * 5000 : i * 5000 + 5000] for i in range(0, min(len(input)//5000 + 1, 5))]
             for i in range(len(paras)):
                 documents.append({"text": paras[i], "id": str(i + 1)})
 
