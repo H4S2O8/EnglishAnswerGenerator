@@ -3,9 +3,10 @@
 What are levels of words?
 
 **Answer1:** 
-But most of the words he uses are common words. Thus there are three levels of words, with the formal or learned at the top, the informal at the bottom, and the common in the middle. Common words are good for all kinds of writing; formal words are as a rule seldom used in informal writing, while informal words are seldom used in formal writing, unless fbr some specia
+But most of the words he uses are common words.
+Thus there are three levels of words, with the formal or learned at the top, the informal at the bottom, and the common in the middle. Common words are good for all kinds of writing; formal words are as a rule seldom used in informal writing, while informal words are seldom used in formal writing, unless for some speci
 
-Answer start at 4631 and end at 4999
+Answer start at 4632 and end at 4999
 
 
 **AnswerSpan1:** 
@@ -22,15 +23,15 @@ the formal or learned at the top, the informal at the bottom, and the common in 
 Which is preferred in academic writing?
 
 **Answer2:** 
-A basic knowledge of diction may be of help. I. Levels off Words The words that are often used may be divided, from a stylistic point of view, into three types: formal, common, and informal Formal words may also be called learned words, or literary words, or “big" words. They mainly appear in formal writing, such as scholarly or theoretical works, political and legal documents, and formal lectures and addresses. Many such words contain three or more than three syllables; most of them are of Greek or Latin origin.
+They mainly appear in formal writing, such as scholarly or theoretical works, political and legal documents, and formal lectures and addresses. Many such words contain three or more than three syllables; most of them are of Greek or Latin origin. They are seldom used in daily conversation, except for special purposes.
 
-Answer start at 577 and end at 1094
+Answer start at 848 and end at 1166
 
 
 **AnswerSpan2:** 
-Formal words
+formal writing, such as scholarly or theoretical works, political and legal documents, and formal lectures and addresses. Many such words contain three or more than three syllables
 
- Answer start at 189 and end at 201
+ Answer start at 21 and end at 201
 
 
 
@@ -41,15 +42,18 @@ Formal words
 What are types of sentences?
 
 **Answer3:** 
-Types o f Sent ences 1. De clarative, Interrogative, Imperative, a nd Exclamatory Sentences A ccording to their use. sentenc es are declarative, interrogative, im p era tive, or exclamatory. A de clar ati v e sentence makes an ass er ti o n or a s ta tem en t.
+Types of Sentences
+1.
+Declarative, Interrogative, Imperative, and Exclamatory Sentences
+According to their use, sentences are declarative, interrogative, imperative, or exclamatory. A declarative sentence makes an assertion or a statement.
 
-Answer start at 0 and end at 259
+Answer start at 0 and end at 238
 
 
 **AnswerSpan3:** 
-De clarative, Interrogative, Imperative, a nd Exclamatory Sentences
+Declarative, Interrogative, Imperative, and Exclamatory
 
- Answer start at 23 and end at 90
+ Answer start at 21 and end at 76
 
 
 
@@ -60,15 +64,17 @@ De clarative, Interrogative, Imperative, a nd Exclamatory Sentences
 What are the meanings of different types of sentences?
 
 **Answer4:** 
-Short simple sentences are often used to make emphatic or important statements, such as the first sentence of the first passage and the last two sentences of the second passage. Long complex sentences express complex ideas clearly and accurately, for they have room for all kinds of modifiers. The last two sentences of the first passage and the first and fourth sentences of the second are good examples.
+Loose sentences arc easier, simpler, more natural and direct; periodic sentences are more complex, emphatic, formal, or literary.
+Here are more examples of the two types:
+The sentence you are now reading is so constructed that the completion of its meaning and effect depend on reading it to the very last word. Such a sentence is called periodic, as contrasted with the other type, loose, of which this is an example—a sentence that might be stopped at several points (in this sentence, after periodic, type, loose, example, or points).
 
-Answer start at 4152 and end at 4556
+Answer start at 3627 and end at 4163
 
 
 **AnswerSpan4:** 
-express complex ideas clearly and accurately
+Loose sentences arc easier, simpler, more natural and direct; periodic sentences are more complex, emphatic, formal, or literary
 
- Answer start at 200 and end at 244
+ Answer start at 0 and end at 127
 
 
 
@@ -79,15 +85,17 @@ express complex ideas clearly and accurately
 how to use different types of sentences?
 
 **Answer5:** 
-De clarative, Interrogative, Imperative, a nd Exclamatory Sentences A ccording to their use. sentenc es are declarative, interrogative, im p era tive, or exclamatory. A de clar ati v e sentence makes an ass er ti o n or a s ta tem en t. An i nt err o g a tiv e sentenc e asks a questio n.
+Loose sentences arc easier, simpler, more natural and direct; periodic sentences are more complex, emphatic, formal, or literary.
+Here are more examples of the two types:
+The sentence you are now reading is so constructed that the completion of its meaning and effect depend on reading it to the very last word. Such a sentence is called periodic, as contrasted with the other type, loose, of which this is an example—a sentence that might be stopped at several points (in this sentence, after periodic, type, loose, example, or points).
 
-Answer start at 24 and end at 311
+Answer start at 3627 and end at 4163
 
 
 **AnswerSpan5:** 
-De clarative, Interrogative, Imperative, a nd Exclamatory Sentences A ccording to their use
+Loose sentences arc easier, simpler, more natural and direct; periodic sentences are more complex, emphatic, formal, or literary. Here are more examples of the two types: The sentence you are now reading is so constructed that the completion of its meaning and effect depend on reading it to the very last word. Such a sentence is called periodic, as contrasted with the other type, loose, of which this is an example—a sentence that might be stopped at several points (in this sentence, after periodic, type, loose, example, or points)
 
- Answer start at 0 and end at 90
+ Answer start at 0 and end at 535
 
 
 
@@ -98,15 +106,16 @@ De clarative, Interrogative, Imperative, a nd Exclamatory Sentences A ccording t
 What are the criteria of an effective paragraph?
 
 **Answer6:** 
-A paragraph is unified when all th e sentences in the p aragraph a re focused on o ne centr al thoug ht or on a single topic; when the writer wish es to introduce a ne w thou ght o r to pic, he/ she should begin a new parag raph. A paragra p h is coherent when it dev elo ps natura lly and smoothly, and one sentence lead s logically to another. 1.
+Criteria of an Effective Paragraph
+A paragraph is like a mini-essay; it should be unified, coherent and well developed. A paragraph is unified when all the sentences in the paragraph are focused on one central thought or on a single topic; when the writer wishes to introduce a new thought or topic, he/she should begin a new paragraph. A paragraph is coherent when it develops naturally and smoothly, and one sentence leads logically to another.
 
-Answer start at 895 and end at 1242
+Answer start at 702 and end at 1147
 
 
 **AnswerSpan6:** 
-coherent when it dev elo ps natura lly and smoothly, and one sentence lead s logically to another
+unified, coherent and well developed
 
- Answer start at 246 and end at 343
+ Answer start at 81 and end at 117
 
 
 
@@ -117,15 +126,16 @@ coherent when it dev elo ps natura lly and smoothly, and one sentence lead s log
 What are the meanings of different criteria?
 
 **Answer7:** 
-It often appears at the be ginning o f the paragra p h; however, it may also be found in the mid dle or at the end of a paragraph. , Samp l e 1 One of the central preoccupations of the arts and humanities is the observation of human beings. Painters and sculptors create images of the human form; writers tell stories or compose poems about human experience; musical artists give melodic contours to the human spirit; historians and philosophers ponder the essential qualities of human civilization and nature. And in our own lives, in our own ways, we spend a great deal of our energy and attention on our fellow creatures, being in families and other kinds of relationships, observing people with curiosity and interest in the course of the day, thinking about and forming our own character-deciding what kind of person we wish to be—as we grow  We now have, as a result of modern means of communication, hundreds of thousands of words flung at us daily.
+Criteria of an Effective Paragraph
+A paragraph is like a mini-essay; it should be unified, coherent and well developed. A paragraph is unified when all the sentences in the paragraph are focused on one central thought or on a single topic; when the writer wishes to introduce a new thought or topic, he/she should begin a new paragraph. A paragraph is coherent when it develops naturally and smoothly, and one sentence leads logically to another.
 
-Answer start at 1483 and end at 2438
+Answer start at 702 and end at 1147
 
 
 **AnswerSpan7:** 
-essential qualities
+unified, coherent and well developed
 
- Answer start at 456 and end at 475
+ Answer start at 81 and end at 117
 
 
 
@@ -136,15 +146,19 @@ essential qualities
 What are the steps in writing a paragraph?
 
 **Answer8:** 
-Steps in Writ ing a Paragraph Paragraphs need to be planned : Step 1 Think of the t opic or theme or m ain idea, and express it in a complete sentence (topic s entence). Step 2 Think of the details or examp l es or fac ts that may be used to support or expla in the main idea. Step 3 Work out an outlin e to arra nge the details or examples or facts in logical order.
+Steps in Writing a Paragraph
+Paragraphs need to be planned:
+Step 1 Think of the topic or theme or main idea, and express it in a complete sentence (topic sentence).
+Step 2 Think of the details or examples or facts that may be used to support or explain the main idea.
+•Step 3 Work out an outline to arrange the details or examples or facts in logical order- With the outline, the paragraph is almost half-done.
 
-Answer start at 2725 and end at 3091
+Answer start at 0 and end at 409
 
 
 **AnswerSpan8:** 
-Step 1 Think of the t opic or theme or m ain idea, and express it in a complete sentence (topic s entence). Step 2 Think of the details or examp l es or fac ts that may be used to support or expla in the main idea. Step 3 Work out an outlin e to arra nge the details or examples or facts in logical order
+Step 1 Think of the topic or theme or main idea, and express it in a complete sentence (topic sentence). Step 2 Think of the details or examples or facts that may be used to support or explain the main idea. •Step 3 Work out an outline to arrange the details or examples or facts in logical order-
 
- Answer start at 61 and end at 365
+ Answer start at 59 and end at 356
 
 
 

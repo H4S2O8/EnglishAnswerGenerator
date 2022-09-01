@@ -1,6 +1,8 @@
 import requests
 from os.path import abspath, dirname
 
+from private import API_KEY, END_POINT
+
 '''
 请求中的body(json)标准格式：
 {
@@ -24,9 +26,9 @@ class AnswerGenerator:
         self.session = requests.Session()
         self.source_path = source_path
         self.postfix = "/qnamaker/v5.0-preview.2/generateAnswer"
-        self.key = "your_key_here"
+        self.key = API_KEY
         self.content_type = "application/json"
-        self.end_point = "your_end_point_here"
+        self.end_point = END_POINT
         self.url = self.end_point + self.postfix
         self.question = query
 
@@ -60,7 +62,7 @@ class AnswerGenerator:
         AnswerGenerator.cnt += 1
         with open(f'{abspath(dirname(__file__))}/answerWeek{week}.md', 'a', encoding='utf-8') as f:
             f.write(f'## Question{AnswerGenerator.cnt}: \n' + self.question + '\n\n')
-            f.write(f'**Answer{AnswerGenerator.cnt}:** \n' + ans0['answer'].replace('\n', ' ') + '\n\n')
+            f.write(f'**Answer{AnswerGenerator.cnt}:** \n' + ans0['answer'] + '\n\n')
             f.write(f"Answer start at {ans0['answerStartIndex']} and end at {ans0['answerEndIndex']}\n\n\n")
             f.write(f'**AnswerSpan{AnswerGenerator.cnt}:** \n' + ans0['answerSpan']['text'] + '\n\n')
             f.write(
